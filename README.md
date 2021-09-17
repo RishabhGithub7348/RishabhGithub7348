@@ -8,9 +8,9 @@
 
 - 📫 How to reach me 
            
-           - Mail Me (rishabhmaurya7654@gmail.com) and also can tag me on
+    - Mail Me (rishabhmaurya7654@gmail.com) and also can tag me on
            
-           - LinkedIn : ( https://www.linkedin.com/in/rishabh-maurya-4751a6201/ )
+     - LinkedIn : ( https://www.linkedin.com/in/rishabh-maurya-4751a6201/ )
  
 - Visit My Portfolio Website : ( https://rishabhgithub7348.github.io/Portfolio/ )  ( This is Under Development )
 
