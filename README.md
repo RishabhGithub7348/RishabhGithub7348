@@ -6,8 +6,12 @@
 - 
 - 💞️ I’m looking to collaborate on ...
 - 
-- 📫 How to reach me - (rishabhmaurya7654@gmail.com) and also my LinkedIn : ( https://www.linkedin.com/in/rishabh-maurya-4751a6201/ )
-- 
+- 📫 How to reach me 
+           
+           - Mail Me (rishabhmaurya7654@gmail.com) and also can tag me on
+           
+           - LinkedIn : ( https://www.linkedin.com/in/rishabh-maurya-4751a6201/ )
+ 
 - Visit My Portfolio Website : ( https://rishabhgithub7348.github.io/Portfolio/ )  ( This is Under Development )
 
 - This is my Secondery Portfolio : ( https://rishabhgithub7348.github.io/Portfolio/  )  (After Some Time it will be mine Working Portfolio )
