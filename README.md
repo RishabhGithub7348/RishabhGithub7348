@@ -5,8 +5,8 @@
 - 📫 How to reach me        
     - Mail Me (rishabhmaurya7654@gmail.com) and also can tag me on          
      - LinkedIn : ( https://www.linkedin.com/in/rishabh-maurya-4751a6201/ ) 
-- Visit My Portfolio Website : ( https://rishabhgithub7348.github.io/Portfolio/ )  ( This is Under Development )
-- This is my Secondery Portfolio : ( https://rishabhgithub7348.github.io/Responsive__Portfolio__Website/#  )  (After Some Time it will be mine Working Portfolio )
+- Visit My Portfolio Website : ( https://rishabh-maurya-portfolio.netlify.app/ )  ( This is Under Development )
+
 - See My All Github Projects , I will Hope You Will Love ;)
 
 <!---
