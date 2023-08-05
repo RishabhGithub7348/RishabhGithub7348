@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @RishabhGithub7348 ( Rishabh Maurya )
-- 👀 I’m interested in Coding and Exploring Skills
-- 🌱 I’m currently learning C , C++, Web Development , Python 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me        
+- 👋 Hi, I'm Rishabh Maurya (@RishabhGithub7348), a passionate coder and explorer of various skills!
+
+- 🌱 I'm currently honing my expertise in C, C++, Web Development, and Blockchain.
+
+- 💼 I'm open to exciting collaborations and opportunities to work on interesting projects!    
     - Mail  <a href = "mailto:rishabhmaurya7654@gmail.com">Rishabh Maurya</a>          
     - Connect to <a href = "https://www.linkedin.com/in/rishabh-maurya-4751a6201/">Rishabh Maurya</a> at LinkedIn 
 - Visit My <a href = "https://rishabh-portfoilo.netlify.app/">Portfolio</a>     ( This is Under Development )
