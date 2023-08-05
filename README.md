@@ -5,7 +5,7 @@
 - 📫 How to reach me        
     - Mail  <a href = "mailto:rishabhmaurya7654@gmail.com">Rishabh Maurya</a>          
     - Connect to <a href = "https://www.linkedin.com/in/rishabh-maurya-4751a6201/">Rishabh Maurya</a> at LinkedIn 
-- Visit My <a href = "https://rishabh-maurya-portfolio.netlify.app/">Portfolio</a>     ( This is Under Development )
+- Visit My <a href = "https://rishabh-portfoilo.netlify.app/">Portfolio</a>     ( This is Under Development )
 
 - See My All Github Projects , I will Hope You Will Love ;)
 
