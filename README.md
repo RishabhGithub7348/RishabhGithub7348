@@ -1,15 +1,23 @@
-- 👋 Hi, I'm Rishabh Maurya (@RishabhGithub7348), a passionate coder and explorer of various skills!
+# 👋 Hi, I'm Rishabh Maurya!
 
-- 🌱 I'm currently honing my expertise in C, C++, Web Development, and Blockchain.
+I'm a passionate **Full Stack AI Engineer** from Bangalore, India, with a knack for building scalable web applications, AI-powered solutions, and innovative platforms. I thrive on exploring cutting-edge technologies like Frontend, Backend, AI, and DevOps, and I'm always open to exciting collaborations and impactful projects!
 
-- 💼 I'm open to exciting collaborations and opportunities to work on interesting projects!    
-    - Mail  <a href = "mailto:rishabhmaurya7654@gmail.com">Rishabh Maurya</a>          
-    - Connect to <a href = "https://www.linkedin.com/in/rishabh-maurya-4751a6201/">Rishabh Maurya</a> at LinkedIn 
-- Visit My <a href = "https://rishabh-portfoilo.netlify.app/">Portfolio</a>     ( This is Under Development )
+🌱 **Currently working on:** Enhancing the [Monkey Science platform](https://monkeyscience.io) with AI-driven learning tools and real-time simulation streaming.  
+💼 **Open to:** Freelance opportunities, open-source contributions, and innovative tech projects.  
+📫 **Connect with me:**  
+- Email: [rishabhmaurya7654@gmail.com](mailto:rishabhmaurya7654@gmail.com)  
+- LinkedIn: [Rishabh Maurya](https://www.linkedin.com/in/rishabh-maurya-4751a6201/)  
+- Portfolio: [rishabh-portfoilo.netlify.app](https://rishabh-portfoilo.netlify.app/) (Under Development)  
+- GitHub: [RishabhGithub7348](https://github.com/RishabhGithub7348)
 
-- See My All Github Projects , I will Hope You Will Love ;)
+---
 
-<!---
-RishabhGithub7348/RishabhGithub7348 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠️ Skills
+
+- **Languages:** JavaScript, TypeScript, Golang, Python, SQL, NoSQL  
+- **Frameworks:** Next.js, React, Node.js, Django, FastAPI, LangChain, LangGraph, Tailwind CSS  
+- **Tools:** Git, Docker, Kubernetes, PostgreSQL, Jenkins, Lens, Stripe, PhonePe, Razorpay, n8n  
+- **AI Technologies:** Google Cloud APIs, Retrieval-Augmented Generation (RAG), Agentic RAG, Multimodal Integration, Realtime Gemini Live API Integration, Agentic AI, Automation with n8n, MCP Protocol, A2A Protocols  
+- **Soft Skills:** Leadership, Problem Solving, Cross-Functional Collaboration  
+
+---
