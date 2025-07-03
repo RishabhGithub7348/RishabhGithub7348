@@ -35,7 +35,7 @@ I'm a passionate **Full Stack AI Engineer** from Bengaluru, India, with a knack 
 - **Nimbus Platform & Sandbox:** Developed an API-based integration platform and secure sandbox environment using **Next.js**, reducing third-party LMS integration time by 50%.  
 - **SEO & Growth:** Optimized platform SEO, boosting organic traffic by 40%.
 
-### Part-Time AI Engineer | Fintech Dexter Capital  
+### Part-Time AI Engineer | Fintech 
 **Bengaluru, India (Remote)**  
 - Developed multiple automation tools using **n8n** to streamline financial workflows, reducing processing time by 30%.  
 - Integrated automation solutions with existing fintech systems, leveraging **Python** and **APIs** to enhance operational efficiency.  
