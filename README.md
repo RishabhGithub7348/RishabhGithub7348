@@ -3,7 +3,7 @@
 I'm a passionate **Full Stack AI Engineer** from Bengaluru, India, with a knack for building scalable web applications, AI-powered solutions, and innovative platforms. I thrive on exploring cutting-edge technologies like Frontend, Backend, AI, and DevOps, and I'm always open to exciting collaborations and impactful projects!
 
 🌱 **Currently working on:** Enhancing the [Monkey Science platform](https://monkeyscience.io) with AI-driven learning tools and real-time simulation streaming.  
-🌱 Currently part time working on: Building automation tools with n8n at Fintech Dexter Capital to streamline financial workflows and boost efficiency.
+🌱 Currently part time working on: Building automation tools with n8n at Health AI startup Company to streamline health sector workflows and boost efficiency.
 💼 **Open to:** Freelance opportunities, open-source contributions, and innovative tech projects.  
 📫 **Connect with me:**  
 - Email: [rishabhmaurya7654@gmail.com](mailto:rishabhmaurya7654@gmail.com)  
@@ -35,10 +35,10 @@ I'm a passionate **Full Stack AI Engineer** from Bengaluru, India, with a knack 
 - **Nimbus Platform & Sandbox:** Developed an API-based integration platform and secure sandbox environment using **Next.js**, reducing third-party LMS integration time by 50%.  
 - **SEO & Growth:** Optimized platform SEO, boosting organic traffic by 40%.
 
-### Part-Time AI Engineer | Fintech 
+### Part-Time AI Engineer | Health Sector 
 **Bengaluru, India (Remote)**  
-- Developed multiple automation tools using **n8n** to streamline financial workflows, reducing processing time by 30%.  
-- Integrated automation solutions with existing fintech systems, leveraging **Python** and **APIs** to enhance operational efficiency.  
+- Developed multiple automation tools using **n8n** to streamline health sector workflows, reducing processing time by 30%.  
+- Integrated automation solutions with existing workflow systems, leveraging **Python** and **APIs** to enhance operational efficiency.  
 - Collaborated with cross-functional teams to identify bottlenecks and implement scalable solutions, improving productivity.
 
 ### Full Stack Developer Intern 
