@@ -26,7 +26,7 @@ I'm a passionate **Full Stack AI Engineer** from Bengaluru, India, with a knack 
 ## 💼 Experience
 
 ### Full Stack AI Engineer | [Monkey Science](https://monkeyscience.io)  
-**Bengaluru, India (Hybrid) | Sep 2023 – Present**  
+**Bengaluru, India (Hybrid) | Sep 2023 – June 2025**  
 - **Core Platform Development:** Independently managed the product side of the Monkey Science platform, including AI Tutor, Monkey Bot, simulation platform, and dashboards. Built scalable solutions using **Next.js**, **Golang**, **Node.js**, **Django**, **FastAPI**, **LangChain**, **LangGraph**, **PostgreSQL**, and **MongoDB**, supporting 50+ institutions.  
 - **AI Tutor:** Developed a personalized AI tutor with real-time interruption/resume, contextual suggestions, and simulation control, improving student engagement by 30% and retention by 25%. [Demo](https://www.youtube.com/watch?v=UOG2Kynv__w&t=1s)  
 - **Monkey Bot:** Created a multimodal RAG chatbot with audio/text capabilities for simulation control and Q&A, integrated with **Google Cloud APIs** and **ElevenLabs** across 300+ simulations. [Demo](https://drive.google.com/file/d/1iTgZk1I6_MfgATfozmIelK_ObjFpb3mG/view)  
@@ -67,14 +67,7 @@ I'm a passionate **Full Stack AI Engineer** from Bengaluru, India, with a knack 
 
 *(Check out more projects on my [GitHub](https://github.com/RishabhGithub7348)!)*
 
----
-
-## 🎓 Education
-
-**B.Tech in Computer Science And Engineering**  
-KIET Group of Institutions, Ghaziabad, India  
-**Sep 2020 – Jun 2024**  
-- Relevant coursework: Data Structures, Algorithms, Web Development, Database Systems, AI Foundations  
+--- 
 
 ---
 
