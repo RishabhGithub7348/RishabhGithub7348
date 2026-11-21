@@ -10,9 +10,9 @@
 
 # Rishabh Maurya
 
-### Full-Stack AI Engineer · Platform Builder · Founder @ [BuildKodiq](https://buildkodiq.com)
+### Full-Stack AI Engineer · Agentic Systems · Founder @ [BuildKodiq](https://buildkodiq.com)
 
-I build complete products end to end — **Next.js** front ends, **Go / FastAPI** back ends, cloud & DevOps, and production **AI agents**.
+I build **agentic workflows** and the **full-stack products** around them — real AI integrated into products and shipped end to end.
 
 <br/>
 
@@ -35,34 +35,20 @@ I build complete products end to end — **Next.js** front ends, **Go / FastAPI*
 
 ## 👋 About
 
-I'm a **full-stack AI engineer** who builds and ships entire platforms — front end, back end, DevOps, and the AI on top. Over **5+ years** I've owned products from a blank repo to production: **Next.js** interfaces, **Go / Node / FastAPI** services, cloud infrastructure on **GCP / AWS**, and **AI agents** that actually do the work (RAG, tool use, agent memory, voice).
+I'm a **full-stack AI engineer** focused on **agentic systems** — AI agents and agentic workflows — and the full-stack products that put them to work. Over **5+ years** I've owned products from a blank repo to production: **Next.js** front ends, **Go / Node / FastAPI** services, cloud on **GCP / AWS**, and AI integrated where it actually moves the needle (tool-using agents, RAG, agent memory, voice).
 
-Today I run **[BuildKodiq](https://buildkodiq.com)**, where my focus is the same: take an idea end to end and ship a platform that holds up in production — one that doesn't lose data, scales under load, and keeps running without someone watching it.
+Lately my core focus is **durable agentic workflows on Temporal** — long-running, fault-tolerant agent loops built to scale by industry standards.
+
+I run **[BuildKodiq](https://buildkodiq.com)**, where I build custom solutions, apps and MVPs end to end — independently and with a small team.
 
 ## 🧩 What I do
 
-- **Full-stack product** — Next.js / React / Tailwind on the front, Go / FastAPI / Node on the back
-- **AI agents & RAG** — agentic workflows, function calling, agent memory & context compaction, advanced / agentic RAG, voice-to-voice agents
+- **AI agents & agentic workflows** — durable, long-running agent loops on Temporal, tool use & function calling, agent memory & context compaction, advanced / agentic RAG, voice agents — built to scale
+- **Full-stack product** — Next.js / React / Tailwind front ends, Go / FastAPI / Node back ends
+- **AI integration** — dropping agents and LLM features into real products and platforms
 - **Cloud & DevOps** — GCP / AWS, Docker, Kubernetes, CI/CD — I own the whole stack
-- **Real-time & automation** — WebRTC / WebSockets streaming, event-driven and durable workflow automation
 
 ## 💻 Tech stack
-
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend**
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
 **AI & Agents**
 
@@ -72,55 +58,43 @@ Today I run **[BuildKodiq](https://buildkodiq.com)**, where my focus is the same
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![mem0](https://img.shields.io/badge/mem0-000000?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG%20%26%20Agentic%20RAG-6E56CF?style=flat-square)
-![Function Calling](https://img.shields.io/badge/Function%20Calling-6E56CF?style=flat-square)
 ![Agent Memory](https://img.shields.io/badge/Agent%20Memory-6E56CF?style=flat-square)
 ![Voice Agents](https://img.shields.io/badge/Voice%20Agents-6E56CF?style=flat-square)
-![MCP](https://img.shields.io/badge/MCP%20Protocol-6E56CF?style=flat-square)
-![A2A](https://img.shields.io/badge/A2A%20Protocol-6E56CF?style=flat-square)
+
+**Agentic Workflows & Orchestration**
+
+![Temporal](https://img.shields.io/badge/Temporal-000000?style=flat-square&logo=temporal&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Event-Driven](https://img.shields.io/badge/Event--Driven-334155?style=flat-square)
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Cloud & DevOps**
 
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
-**Databases & Storage**
+**Also work with**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-
-**Messaging & Real-time**
-
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
-![Cloudflare Stream](https://img.shields.io/badge/Cloudflare%20Stream-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Event-Driven](https://img.shields.io/badge/Event--Driven-334155?style=flat-square)
-
-**Payments**
-
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white)
-![PhonePe](https://img.shields.io/badge/PhonePe-5F259F?style=flat-square&logo=phonepe&logoColor=white)
-
-**Architecture**
-
-![Microservices](https://img.shields.io/badge/Microservices-334155?style=flat-square)
-![System Design](https://img.shields.io/badge/System%20Design-334155?style=flat-square)
-![API Design](https://img.shields.io/badge/API%20Design-334155?style=flat-square)
-![Scalable Distributed Systems](https://img.shields.io/badge/Scalable%20Distributed%20Systems-334155?style=flat-square)
+MongoDB · Redis · DynamoDB · S3 · RabbitMQ · WebSockets · WebRTC · Cloudflare · Stripe · Razorpay · PhonePe · Microservices · System Design · Scalable Distributed Systems
 
 ---
 
@@ -129,6 +103,15 @@ Today I run **[BuildKodiq](https://buildkodiq.com)**, where my focus is the same
 **Ad Order Automation & Distribution Platform** · *remote contractor for a US broadcast ad-distribution company*
 
 > TV and radio commercials used to be processed by hand — every ad checked, converted to each station's format, packaged into station documents, and delivered one destination at a time. I designed and built the platform that automates the whole pipeline end to end, from upload to confirmed delivery at every station, and I own the backend architecture, the workflow engine, and the DevOps.
+
+```mermaid
+flowchart LR
+    A["Upload"] --> B["Validate"]
+    B --> C["Transcode<br/>(once per format)"]
+    C --> D["Generate docs<br/>PDF · XML · BXF"]
+    D --> E["Deliver<br/>per station"]
+    E --> F["Notify + done"]
+```
 
 **What I built**
 
@@ -180,7 +163,7 @@ Today I run **[BuildKodiq](https://buildkodiq.com)**, where my focus is the same
 
 ## 🤝 Let's build something
 
-I take product and AI-engineering work end to end through **[BuildKodiq](https://buildkodiq.com)** — from a single hard feature to a full platform I own front to back.
+I take product and AI-engineering work end to end through **[BuildKodiq](https://buildkodiq.com)** — custom solutions, apps and MVPs, with agentic AI where it earns its place.
 
 - 🌐 **Website** — [buildkodiq.com](https://buildkodiq.com)
 - 🐙 **GitHub** — [@RishabhGithub7348](https://github.com/RishabhGithub7348)
@@ -189,6 +172,6 @@ I take product and AI-engineering work end to end through **[BuildKodiq](https:/
 
 <div align="center">
 
-<sub>Full-stack AI engineering · Platforms built front to back · Shipped to production.</sub>
+<sub>Agentic systems · Full-stack products · AI integrated and shipped to production.</sub>
 
 </div>
