@@ -17,7 +17,6 @@ I build complete products end to end — **Next.js** front ends, **Go / FastAPI*
 <br/>
 
 [![Website](https://img.shields.io/badge/buildkodiq.com-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://buildkodiq.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5A5F?style=for-the-badge&logo=netlify&logoColor=white)](https://rishabh-portfoilo.netlify.app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RishabhGithub7348)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabhmaurya7654@gmail.com)
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-handle) -->
@@ -125,9 +124,9 @@ Today I run **[BuildKodiq](https://buildkodiq.com)**, where my focus is the same
 
 ---
 
-## ⭐ Featured — Ad Order Automation & Distribution Platform
+## ⭐ Featured — SpotBeam
 
-*Designed and built under contract for a US broadcast ad-distribution company.*
+**Ad Order Automation & Distribution Platform** · *remote contractor for a US broadcast ad-distribution company*
 
 > TV and radio commercials used to be processed by hand — every ad checked, converted to each station's format, packaged into station documents, and delivered one destination at a time. I designed and built the platform that automates the whole pipeline end to end, from upload to confirmed delivery at every station, and I own the backend architecture, the workflow engine, and the DevOps.
 
@@ -151,8 +150,8 @@ Today I run **[BuildKodiq](https://buildkodiq.com)**, where my focus is the same
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| **Multi-Platform Social Publishing** | One dashboard to connect Instagram, X, Threads, TikTok & Bluesky and publish video/posts in one click — AI captions, smart scheduling, cross-platform analytics, and instant in-app video streaming. | Next.js · FastAPI · PostgreSQL · GCP · Supabase · Cloudflare Stream · LLMs |
-| **AI Lead-Closing Agent** | Replies to Instagram & WhatsApp DMs like a human and takes leads all the way to a closed sale — qualification, payment links, funnels & bulk campaigns. | AI agents · Fine-tuned LLMs · IG/WhatsApp APIs · Stripe |
+| **AirPublish** | One dashboard to connect Instagram, X, Threads, TikTok & Bluesky and publish video/posts in one click — AI captions, smart scheduling, cross-platform analytics, and instant in-app video streaming. | Next.js · FastAPI · PostgreSQL · GCP · Supabase · Cloudflare Stream · LLMs |
+| **AirCloser** | An AI lead-closing agent that replies to Instagram & WhatsApp DMs like a human and takes leads all the way to a closed sale — qualification, payment links, funnels & bulk campaigns. | AI agents · Fine-tuned LLMs · IG/WhatsApp APIs · Stripe |
 | **AI Recruitment Automation** | End-to-end AI hiring pipeline: pulls jobs from JobDiva, a tuned sourcing agent writes Boolean searches & shortlists, a scoring agent ranks every JD/résumé pair, then automated outreach, pre-screening & first-round interviews. | AI agents · LLMs · JobDiva · Workflow automation |
 | **Bankruptcy Case Management** | AI platform for a legal/financial client — auto-categorizing document indexer, RAG chat over case docs, automated bank-statement analysis & GL matching, and AI filing of recurring forms (SOFA, Schedules, MOR), with 24/7 background agents. | Google ADK · Gemini · RAG · Python · Document AI |
 | **Investor-Relations Draft Generation** | Generates quarterly deliverables (press releases, prepared remarks, Q&A, theme memos) from source Word docs — the agent auto-selects the right sources and produces cited, correctly formatted drafts, with a full client/document dashboard. | Anthropic Agent SDK · OpenAI SDK · Agent memory · Context compaction |
@@ -184,9 +183,7 @@ Today I run **[BuildKodiq](https://buildkodiq.com)**, where my focus is the same
 I take product and AI-engineering work end to end through **[BuildKodiq](https://buildkodiq.com)** — from a single hard feature to a full platform I own front to back.
 
 - 🌐 **Website** — [buildkodiq.com](https://buildkodiq.com)
-- 🧑‍💻 **Portfolio** — [rishabh-portfoilo.netlify.app](https://rishabh-portfoilo.netlify.app)
 - 🐙 **GitHub** — [@RishabhGithub7348](https://github.com/RishabhGithub7348)
-- 🧩 **LeetCode** — [Rishabh7348](https://leetcode.com/Rishabh7348)
 - 📬 **Email** — [rishabhmaurya7654@gmail.com](mailto:rishabhmaurya7654@gmail.com)
 <!-- 💼 LinkedIn — add your URL here when ready -->
 
