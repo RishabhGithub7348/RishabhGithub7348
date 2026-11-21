@@ -125,9 +125,9 @@ Today I run **[BuildKodiq](https://buildkodiq.com)**, where my focus is the same
 
 ---
 
-## ⭐ Featured — SpotBeam
+## ⭐ Featured — Ad Order Automation & Distribution Platform
 
-**Ad Order Automation & Distribution Platform** · *built under contract for a US broadcast ad-distribution company*
+*Designed and built under contract for a US broadcast ad-distribution company.*
 
 > TV and radio commercials used to be processed by hand — every ad checked, converted to each station's format, packaged into station documents, and delivered one destination at a time. I designed and built the platform that automates the whole pipeline end to end, from upload to confirmed delivery at every station, and I own the backend architecture, the workflow engine, and the DevOps.
 
@@ -151,8 +151,8 @@ Today I run **[BuildKodiq](https://buildkodiq.com)**, where my focus is the same
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| **AirPublish** | One dashboard to connect Instagram, X, Threads, TikTok & Bluesky and publish video/posts in one click — AI captions, smart scheduling, cross-platform analytics, and instant in-app video streaming. | Next.js · FastAPI · PostgreSQL · GCP · Supabase · Cloudflare Stream · LLMs |
-| **AirCloser** | An AI lead-closing agent that replies to Instagram & WhatsApp DMs like a human and takes leads all the way to a closed sale — qualification, payment links, funnels & bulk campaigns. | AI agents · Fine-tuned LLMs · IG/WhatsApp APIs · Stripe |
+| **Multi-Platform Social Publishing** | One dashboard to connect Instagram, X, Threads, TikTok & Bluesky and publish video/posts in one click — AI captions, smart scheduling, cross-platform analytics, and instant in-app video streaming. | Next.js · FastAPI · PostgreSQL · GCP · Supabase · Cloudflare Stream · LLMs |
+| **AI Lead-Closing Agent** | Replies to Instagram & WhatsApp DMs like a human and takes leads all the way to a closed sale — qualification, payment links, funnels & bulk campaigns. | AI agents · Fine-tuned LLMs · IG/WhatsApp APIs · Stripe |
 | **AI Recruitment Automation** | End-to-end AI hiring pipeline: pulls jobs from JobDiva, a tuned sourcing agent writes Boolean searches & shortlists, a scoring agent ranks every JD/résumé pair, then automated outreach, pre-screening & first-round interviews. | AI agents · LLMs · JobDiva · Workflow automation |
 | **Bankruptcy Case Management** | AI platform for a legal/financial client — auto-categorizing document indexer, RAG chat over case docs, automated bank-statement analysis & GL matching, and AI filing of recurring forms (SOFA, Schedules, MOR), with 24/7 background agents. | Google ADK · Gemini · RAG · Python · Document AI |
 | **Investor-Relations Draft Generation** | Generates quarterly deliverables (press releases, prepared remarks, Q&A, theme memos) from source Word docs — the agent auto-selects the right sources and produces cited, correctly formatted drafts, with a full client/document dashboard. | Anthropic Agent SDK · OpenAI SDK · Agent memory · Context compaction |
